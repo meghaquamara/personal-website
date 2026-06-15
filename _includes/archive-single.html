@@ -44,7 +44,6 @@
           {% if post.authors %}
           <p>{{ post.authors }}</p>
         {% endif %}
-
         <p>
           <i>{{ post.venue }}</i>,
           {{ post.date | default: "1900-01-01" | date: "%Y" }}
