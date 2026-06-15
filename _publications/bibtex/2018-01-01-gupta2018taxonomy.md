@@ -1,0 +1,9 @@
+---
+title: "A taxonomy of various attacks on smart card--based applications and countermeasures"
+collection: publications
+category: journals
+permalink: /publication/gupta2018taxonomy
+date: 2018-01-01
+venue: "Concurrency and Computation: Practice and Experience"
+citation: "Gupta, BB and Quamara, Megha. A taxonomy of various attacks on smart card--based applications and countermeasures. Concurrency and Computation: Practice and Experience, 2018."
+---
