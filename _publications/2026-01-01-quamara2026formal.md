@@ -1,5 +1,5 @@
 ---
-title: "Formal methods for socio--technical security in eXtended Reality (XR): state--of--the--art and research agenda"
+title: "Formal methods for socio-technical security in eXtended Reality (XR): state--of--the--art and research agenda"
 collection: publications
 category: journals
 authors: "Megha Quamara, Luca Viganò, Viktor Schmuck, Oya Celiktutan"
