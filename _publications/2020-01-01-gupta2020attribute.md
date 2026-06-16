@@ -1,5 +1,5 @@
 ---
-title: "Attribute-based access control and authentication mechanism using smart cards for cloud--based IoT applications"
+title: "Attribute-based access control and authentication mechanism using smart cards for cloud-based IoT applications"
 collection: publications
 category: journals
 authors: "B. B. Gupta, Megha Quamara"
