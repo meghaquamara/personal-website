@@ -5,5 +5,5 @@ category: journals
 authors: "B. B. Gupta, Megha Quamara"
 permalink: /publication/gupta2018identity
 date: 2018-01-01
-venue: "Procedia Computer Science, Elseveir"
+venue: "Procedia Computer Science"
 ---
