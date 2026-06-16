@@ -1,5 +1,5 @@
 ---
-title: "A taxonomy of various attacks on smart card--based applications and countermeasures"
+title: "A taxonomy of various attacks on smart card-based applications and countermeasures"
 collection: publications
 category: journals
 authors: "B. B. Gupta, Megha Quamara"
