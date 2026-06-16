@@ -1,5 +1,5 @@
 ---
-title: "Where do safety and security mutually reinforce? a multi-level model-based approach for a consistent interplay"
+title: "Where do safety and security mutually reinforce? A multi-level model-based approach for a consistent interplay"
 collection: publications
 category: conferences
 authors: "Megha Quamara, Christina Kolb, Ankur Lohachab"
