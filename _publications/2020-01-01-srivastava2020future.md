@@ -1,8 +1,8 @@
 ---
-title: "Future IoT-enabled threats and vulnerabilities: State of the art, challenges, and future prospects"
+title: "Future IoT--enabled threats and vulnerabilities: State of the art, challenges, and future prospects"
 collection: publications
 category: journals
-authors: "Srivastava, Astha, Gupta, Shashank, Quamara, Megha, Chaudhary, Pooja, Aski, Vidyadhar Jinnappa"
+authors: "Astha Srivastava, Shashank Gupta, Megha Quamara, Pooja Chaudhary, Vidyadhar Jinnappa Aski"
 permalink: /publication/srivastava2020future
 date: 2020-01-01
 venue: "International Journal of Communication Systems"
