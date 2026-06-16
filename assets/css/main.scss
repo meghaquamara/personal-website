@@ -43,16 +43,23 @@
 ;
 
 .archive__item-title {
-    margin-bottom: 0.15em;
+    margin-bottom: 0.1em !important;
 }
 
-.archive__item p {
-    margin-top: 0.15em;
-    margin-bottom: 0.15em;
+.pub-authors {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    line-height: 1.2 !important;
+}
+
+.pub-venue {
+    margin-top: 0 !important;
+    margin-bottom: 0.15em !important;
+    line-height: 1.2 !important;
 }
 
 .list__item {
-    margin-bottom: 0.5em !important;
+    margin-bottom: 0.35em !important;
 }
 
 .archive__item {
