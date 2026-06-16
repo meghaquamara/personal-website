@@ -1,5 +1,5 @@
 ---
-title: "Future IoT--enabled threats and vulnerabilities: State of the art, challenges, and future prospects"
+title: "Future IoT-enabled threats and vulnerabilities: State of the art, challenges, and future prospects"
 collection: publications
 category: journals
 authors: "Astha Srivastava, Shashank Gupta, Megha Quamara, Pooja Chaudhary, Vidyadhar Jinnappa Aski"
