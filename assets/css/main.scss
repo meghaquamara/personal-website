@@ -62,3 +62,13 @@
 .page__content .teaching-course {
     color: #4DB6D6 !important;
 }
+
+.teaching-course {
+    margin-top: 0.7em !important;      /* space before a module */
+    margin-bottom: 0.1em !important;   /* space after title */
+}
+
+.page__content p {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+}
