@@ -10,9 +10,7 @@ author_profile: true
 <h3 class="teaching-course">Security Engineering (7CCSONSE)</h3>
 
 <p class="teaching-info">
-  <a href="https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-cyber-security" target="_blank">
-  Advanced Cyber Security MSc
-  </a>,
+  <a href="https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-cyber-security" target="_blank">Advanced Cyber Security MSc</a>,
   King's College London, 2025--26 (TP5)
 </p>
 
@@ -21,17 +19,13 @@ author_profile: true
 <h3 class="teaching-course">Security Testing (7CCSMSCT)</h3>
 
 <p class="teaching-info">
-  <a href="https://www.kcl.ac.uk/study/postgraduate-taught/courses/cyber-security-msc" target="_blank">
-  Cyber Security MSc
-  </a>,
+  <a href="https://www.kcl.ac.uk/study/postgraduate-taught/courses/cyber-security-msc" target="_blank">Cyber Security MSc</a>,
   King's College London, 2025--26 (Semester 2)
 </p>
 
 <h3 class="teaching-course">Security Testing (7CCSONST)</h3>
 
 <p class="teaching-info">
-  <a href="https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-cyber-security" target="_blank">
-  Advanced Cyber Security MSc
-  </a>, 
+  <a href="https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-cyber-security" target="_blank">Advanced Cyber Security MSc</a>, 
   King's College London, 2025--26 (TP3)
 </p>
