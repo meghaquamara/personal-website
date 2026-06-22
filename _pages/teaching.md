@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Teaching"
+title: " "
 permalink: /teaching/
 author_profile: true
 ---
 
-## Ongoing Modules
+<h2 class="teaching-section">Ongoing Modules</h2>
 
 ### Security Engineering (7CCSONSE)
 
 Advanced Cyber Security MSc, King's College London, 2025–26 (TP5)
 
-## Past Modules
+<h2 class="teaching-section">Past Modules</h2>
 
 ### Security Testing (7CCSMSCT)
 
