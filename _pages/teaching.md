@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ongoing Modules
 
-<h3 class="teaching-course">Security Engineering (7CCSONSE)</h3>
+<h3 style="color:#4DB6D6;">Security Engineering (7CCSONSE)</h3>
 
 Advanced Cyber Security MSc, King's College London, 2025--26 (TP5)
 
