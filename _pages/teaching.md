@@ -12,7 +12,7 @@ author_profile: true
 <p class="teaching-info">
   <a href="https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-cyber-security" target="_blank">
   Advanced Cyber Security MSc
-  </a>,, 
+  </a>,
   King's College London, 2025--26 (TP5)
 </p>
 
