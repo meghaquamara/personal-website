@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Research and Teaching Fellow (Lecturer) in Cyber Security in the [Department of Informatics](https://www.kcl.ac.uk/informatics) at King’s College London.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Before joining my current role, I was as a Postdoctoral Research Associate with Luca Viganò at King’s College London, contributing to the Horizon Europe-funded [SERMAS](https://cordis.europa.eu/project/id/101070351) project. I obtained my PhD in Computer Science and Telecommunications from the [Université de Toulouse – Paul Sabatier](https://www.univ-tlse3.fr/), France, in collaboration with [CEA Paris-Saclay](https://www.cea.fr/english/Pages/Welcome.aspx) - [LIST](https://list.cea.fr/en/) and [IRIT](https://www.irit.fr/en/home/) - [ARGOS Team](https://www.irit.fr/en/departement/dep-reliability-systems-and-software/argos-team/), where my research formed part of the [SecSafI project](https://www.irit.fr/~Brahim.Hamid/research/research-interests-and-projects/), supervised by [Brahim Hamid](https://www.irit.fr/~Brahim.Hamid/) and [Gabriel Pedroza](https://fr.linkedin.com/in/gabriel-pedroza-89bb5338).
 
 A data-driven personal website
 ======
