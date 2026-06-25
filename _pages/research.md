@@ -1,41 +1,45 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Projects & Supervision"
 permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
+## Projects
 
-My research focuses on engineering dependable systems through formal methods, with particular emphasis on safe AI, cyber security, and their interplay. I am interested in developing rigorous techniques for building secure, trustworthy, and resilient intelligent systems.
+### SERMAS: Socially‑acceptable Extended Reality Models and Systems (2023–2025)
 
-<hr />
+**Funding: Horizon Europe and Innovate UK**
 
-## Research Projects
+*Role.*
 
-### SERMAS (2023–2025)
-
-**Secure and Safe Multi-Robot Systems (Horizon Europe)**
-
-As a Postdoctoral Research Associate at King's College London, I contributed to the Horizon Europe-funded SERMAS project, investigating formal approaches to the security and safety of autonomous multi-robot systems.
-
-### SecSafI (2019–2022)
+### SecSafI: Security and Safety Interplay (2019–2022)
 
 **Security and Safety for the Internet of Things**
 
-During my PhD at the University of Toulouse III – Paul Sabatier, in collaboration with CEA Paris-Saclay and IRIT, I worked on the SecSafI project, focusing on formal verification techniques for security and safety.
+*Role.*
 
 <hr />
 
 ## Student Supervision
 
-### MSc Dissertation Projects
+### PhD
 
-* *To be updated.*
+* Ioana Sandu (MM/YYYY-Present), King's College London, UK.
 
-### Undergraduate Projects
+### MSc Cyber Security Individual Project (01/2026-Present), King's College London, UK
 
-* *To be updated.*
+* Yar Kaung Htet Zay
+* Zihan Huang
+* Shilton Aruldhas
+* Minji Kim
+* Unais Qureshi
+
+### MSc Data Science Individual Project (01/2026-Present), King's College London, UK
+* Ashfak Uddin
+* Kanika
+* Travis Leung
+* Ben Varvill
 
 <hr />
 
