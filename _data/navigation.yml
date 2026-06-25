@@ -9,8 +9,8 @@
 
 main:
 
-- title: "Research Group"
-  url: /researchgroup/
+- title: "Research"
+  url: /research/
 
 - title: "Publications"
   url: /publications/
