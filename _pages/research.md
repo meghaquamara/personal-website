@@ -15,7 +15,7 @@ author_profile: true
 
 ### SecSafI: Security and Safety Interplay (2019–2022)
 
-**Security and Safety for the Internet of Things**
+**Funding: CEA Paris-Saclay**
 
 *Role.*
 
@@ -43,7 +43,3 @@ author_profile: true
 • Ben Varvill
 
 <hr />
-
-## Collaborations
-
-I welcome collaborations on topics related to formal methods, cyber security, dependable systems, and safe AI. If our research interests align, please feel free to get in touch.
