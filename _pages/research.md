@@ -25,22 +25,22 @@ author_profile: true
 
 ### PhD
 
-* Ioana Sandu (MM/YYYY-Present), King's College London, UK.
+• Ioana Sandu (MM/YYYY-Present), King's College London, UK.
 
 ### MSc Cyber Security Individual Project (01/2026–Present), King's College London, UK
 
-Yar Kaung Htet Zay<br>
-Zihan Huang<br>
-Shilton Aruldhas<br>
-Minji Kim<br>
-Unais Qureshi
+• Yar Kaung Htet Zay<br>
+• Zihan Huang<br>
+• Shilton Aruldhas<br>
+• Minji Kim<br>
+• Unais Qureshi
 
 ### MSc Data Science Individual Project (01/2026–Present), King's College London, UK
 
-Ashfak Uddin<br>
-Kanika<br>
-Travis Leung<br>
-Ben Varvill
+• Ashfak Uddin<br>
+• Kanika<br>
+• Travis Leung<br>
+• Ben Varvill
 
 <hr />
 
