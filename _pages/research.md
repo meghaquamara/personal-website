@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Projects & Supervision"
+title: ""
 permalink: /research/
 author_profile: true
 ---
