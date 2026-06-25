@@ -76,10 +76,10 @@
     color: #4a4a4a !important;
 }
 
-.page__content ul {
-    line-height: 1.1 !important;
-}
-
-.page__content li {
+.page__content ul li {
+    margin-top: 0 !important;
     margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    line-height: 1.1 !important;
 }
