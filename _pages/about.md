@@ -13,7 +13,7 @@ My research focuses on Dependable Systems Engineering, particularly at the inter
 
 Before joining my current role, I was as a Postdoctoral Research Associate with [Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) at King’s College London, contributing to the Horizon Europe-funded [SERMAS](https://cordis.europa.eu/project/id/101070351) project. 
 
-I obtained my PhD in Computer Science and Telecommunications from the [Université de Toulouse – Paul Sabatier](https://www.univ-tlse3.fr/), France, in collaboration with [CEA Paris-Saclay](https://www.cea.fr/english/Pages/Welcome.aspx) - [LIST](https://list.cea.fr/en/) and [IRIT](https://www.irit.fr/en/home/) - [ARGOS Team](https://www.irit.fr/en/departement/dep-reliability-systems-and-software/argos-team/), where my research formed part of the [SecSafI project](https://www.irit.fr/~Brahim.Hamid/research/research-interests-and-projects/), supervised by [Brahim Hamid](https://www.irit.fr/~Brahim.Hamid/) and [Gabriel Pedroza](https://fr.linkedin.com/in/gabriel-pedroza-89bb5338).
+I obtained my PhD in Computer Science and Telecommunications from the [Université de Toulouse – Paul Sabatier](https://www.univ-tlse3.fr/), France, in collaboration with [CEA Paris-Saclay - LIST](https://list.cea.fr/en/) and [IRIT - ARGOS Team](https://www.irit.fr/en/departement/dep-reliability-systems-and-software/argos-team/), where my research formed part of the [SecSafI project](https://www.irit.fr/~Brahim.Hamid/research/research-interests-and-projects/), supervised by [Brahim Hamid](https://www.irit.fr/~Brahim.Hamid/) and [Gabriel Pedroza](https://fr.linkedin.com/in/gabriel-pedroza-89bb5338).
 
 <!--A data-driven personal website
 ======
