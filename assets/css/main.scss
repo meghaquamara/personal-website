@@ -76,7 +76,14 @@
     color: inherit !important;
 }
 
-.author__urls li.author__desktop a {
-    display: inline !important;
+.employer-item {
+    display: flex !important;
+    align-items: center !important;
     white-space: nowrap !important;
+}
+
+.employer-item a {
+    display: inline !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
