@@ -75,3 +75,8 @@
 .teaching-info a {
     color: inherit !important;
 }
+
+.author__urls li.author__desktop a {
+    display: inline !important;
+    white-space: nowrap !important;
+}
