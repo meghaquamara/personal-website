@@ -9,7 +9,9 @@ redirect_from:
 
 I am a Research and Teaching Fellow (Lecturer) in Cyber Security in the [Department of Informatics](https://www.kcl.ac.uk/informatics) at King’s College London.
 
-My research focuses on Dependable Systems Engineering, particularly at the intersection of Cyber Security and AI Safety, using formal verification, model-based and modular system development, and human-in-the-loop approaches.
+My research agenda has focused on advancing the engineering of dependable, autonomous, software-based systems by addressing their security and safety concerns across different levels of abstraction, ranging from communication protocols to software architectures and user-system interactions. A common thread across my research has been the pursuit of principled specification-driven engineering methodologies, grounded in model-based and modular system development and formal methods, that enable systems to be specified, analyzed, and verified with stronger guarantees of correctness, security, and safety. Building on this foundation and nearly a decade of R&D experience, I am currently investigating specification-driven engineering principles in the context of safety-related AI systems, with a focus on Explainable Security, by integrating formal methods and human-centered evaluation.
+
+<!--My research focuses on Dependable Systems Engineering, particularly at the intersection of Cyber Security and AI Safety, using formal verification, model-based and modular system development, and human-in-the-loop approaches.-->
 
 Before joining my current role, I was as a Postdoctoral Research Associate with [Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) at King’s College London, contributing to the Horizon Europe-funded [SERMAS](https://cordis.europa.eu/project/id/101070351) project. 
 
